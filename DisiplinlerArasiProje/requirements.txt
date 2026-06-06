@@ -1,0 +1,4 @@
+seal-python
+flask
+flask-cors
+requests
